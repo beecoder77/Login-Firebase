@@ -50,8 +50,9 @@ public class Login extends BaseActivity implements View.OnClickListener{
                         if (task.isSuccessful()) {
                             // Sign in success, go to Home Activity
                             Log.d(TAG, "signInWithEmail:success");
-                            Intent home = new Intent(Login.this, MainActivity.class);
-                            startActivity(home);
+                            Intent MainActivity = new Intent(Login.this, MainActivity.class);
+                            finish();
+                            startActivity(MainActivity);
                         } else {
                             // If sign in fails, display a message to the user.
                             Log.w(TAG, "signInWithEmail:failure", task.getException());

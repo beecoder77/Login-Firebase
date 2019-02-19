@@ -64,6 +64,7 @@ public class VerifEmail extends BaseActivity implements View.OnClickListener{
             sendEmailVerification();
         } else if (i == R.id.login){
             Intent login = new Intent(VerifEmail.this, Login.class);
+            finish();
             startActivity(login);
         }
     }
