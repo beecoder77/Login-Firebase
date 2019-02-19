@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "300732862615",
+    "firebase_url": "https://belajar-beecoder.firebaseio.com",
+    "project_id": "belajar-beecoder",
+    "storage_bucket": "belajar-beecoder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300732862615:android:59ffa5f2a785be65",
+        "android_client_info": {
+          "package_name": "com.beecoder.learnfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300732862615-6htmofc5ee0a3n5cmo3674vcqffq2nm1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beecoder.learnfirebase",
+            "certificate_hash": "648d45cf676650d9703dc33c4e132950ec4b38ed"
+          }
+        },
+        {
+          "client_id": "300732862615-ks5nhjg1ce4ets03hpufmdmcs4hgh3sv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3Ado6jUw-eBAW-LNh8z7IyDijdTqI9I0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300732862615-ks5nhjg1ce4ets03hpufmdmcs4hgh3sv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Learn Firebase</string>
+    <string name="Harap">Harap Verifikasikan Email anda !</string>
+    <string name="sudah">Sudah Verifikasi? Silahkan Login</string>
+</resources>
